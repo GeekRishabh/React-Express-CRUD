@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Basic expressJS for CURD operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekRishabh/React-Express-CURD-.git"
+  },
+  "keywords": [
+    "expressJS",
+    "CURD"
+  ],
+  "author": "geekrishabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekRishabh/React-Express-CURD-/issues"
+  },
+  "homepage": "https://github.com/GeekRishabh/React-Express-CURD-#readme"
+}
